@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[openbrowser]]>
+    </line>
+    <line>
+      <![CDATA[login]]>
+    </line>
+    <line>
+      <![CDATA[deletcustomer]]>
+    </line>
+    <line>
+      <![CDATA[logout]]>
+    </line>
+    <line>
+      <![CDATA[login]]>
+    </line>
+    <line>
+      <![CDATA[registercustomer]]>
+    </line>
+    <line>
+      <![CDATA[logout]]>
+    </line>
+    <line>
+      <![CDATA[login]]>
+    </line>
+    <line>
+      <![CDATA[editcustomer]]>
+    </line>
+    <line>
+      <![CDATA[logout]]>
+    </line>
+    <line>
+      <![CDATA[login]]>
+    </line>
+    <line>
+      <![CDATA[editcustomer]]>
+    </line>
+    <line>
+      <![CDATA[logout]]>
+    </line>
+    <line>
+      <![CDATA[closebrowser]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-06-17T12:11:16 IST" name="Default suite" finished-at="2022-06-17T12:11:16 IST" duration-ms="300">
+    <groups>
+    </groups>
+    <test started-at="2022-06-17T12:11:16 IST" name="Default test" finished-at="2022-06-17T12:11:16 IST" duration-ms="300">
+      <class name="qsp.customermodule1">
+        <test-method is-config="true" signature="openbrowser()[pri:0, instance:qsp.customermodule1@50a638b5]" started-at="2022-06-17T12:11:16 IST" name="openbrowser" finished-at="2022-06-17T12:11:16 IST" duration-ms="30" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[openbrowser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method is-config="true" signature="login()[pri:0, instance:qsp.customermodule1@50a638b5]" started-at="2022-06-17T12:11:16 IST" name="login" finished-at="2022-06-17T12:11:16 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[login]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="deletcustomer()[pri:0, instance:qsp.customermodule1@50a638b5]" started-at="2022-06-17T12:11:16 IST" name="deletcustomer" finished-at="2022-06-17T12:11:16 IST" duration-ms="28" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[deletcustomer]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- deletcustomer -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:qsp.customermodule1@50a638b5]" started-at="2022-06-17T12:11:16 IST" name="logout" finished-at="2022-06-17T12:11:16 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[logout]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="login()[pri:0, instance:qsp.customermodule1@50a638b5]" started-at="2022-06-17T12:11:16 IST" name="login" finished-at="2022-06-17T12:11:16 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[login]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="registercustomer()[pri:0, instance:qsp.customermodule1@50a638b5]" started-at="2022-06-17T12:11:16 IST" name="registercustomer" finished-at="2022-06-17T12:11:16 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[registercustomer]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- registercustomer -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:qsp.customermodule1@50a638b5]" started-at="2022-06-17T12:11:16 IST" name="logout" finished-at="2022-06-17T12:11:16 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[logout]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="login()[pri:0, instance:qsp.customermodule1@50a638b5]" started-at="2022-06-17T12:11:16 IST" name="login" finished-at="2022-06-17T12:11:16 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[login]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="editcustomer()[pri:1, instance:qsp.customermodule1@50a638b5]" started-at="2022-06-17T12:11:16 IST" name="editcustomer" finished-at="2022-06-17T12:11:16 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[editcustomer]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- editcustomer -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:qsp.customermodule1@50a638b5]" started-at="2022-06-17T12:11:16 IST" name="logout" finished-at="2022-06-17T12:11:16 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[logout]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="login()[pri:0, instance:qsp.customermodule1@50a638b5]" started-at="2022-06-17T12:11:16 IST" name="login" finished-at="2022-06-17T12:11:16 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[login]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="editcustomer()[pri:1, instance:qsp.customermodule1@50a638b5]" started-at="2022-06-17T12:11:16 IST" name="editcustomer" finished-at="2022-06-17T12:11:16 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[editcustomer]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- editcustomer -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:qsp.customermodule1@50a638b5]" started-at="2022-06-17T12:11:16 IST" name="logout" finished-at="2022-06-17T12:11:16 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[logout]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="classbrowser()[pri:0, instance:qsp.customermodule1@50a638b5]" started-at="2022-06-17T12:11:16 IST" name="classbrowser" finished-at="2022-06-17T12:11:16 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[closebrowser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- classbrowser -->
+      </class> <!-- qsp.customermodule1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
